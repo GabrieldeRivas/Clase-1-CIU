@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: #ccc;
+}
+h3 {
+    color: rgb(200,100,50);
+}
+p {
+    color: green;
+    background-color: purple;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
